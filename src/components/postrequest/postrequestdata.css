@@ -1,0 +1,55 @@
+ 
+.postrequest {
+    width: 1000px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+.postrequest > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #ff0123;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width:40%;
+    font-size: 1rem;
+}
+
+.postrequest > .button {
+    background: #da021e;
+    border: 1px solid #da021e;
+    width:30%;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin-left: 680px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.postrequest > select {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #ff0123; 
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width:40%;
+    font-size: 1rem;
+}
+
+.p-1{
+    background: #da021e;
+    border: 1px solid #da021e;
+    color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+} 
+

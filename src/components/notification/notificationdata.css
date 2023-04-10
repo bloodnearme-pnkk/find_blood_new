@@ -1,0 +1,131 @@
+ 
+.notification {
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+.abc{
+    width: 450px;
+    height: 250px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    margin-top: 2rem;
+    padding: 1rem;
+    margin-left: 100px;
+    align-items: center;
+    text-align: center;
+}
+.abc-1{
+  width: 450px;
+  height: 250px;
+  background: #fff;
+  border: 1px solid #dddfe2;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  margin-top: 2rem;
+  padding: 1rem;
+  margin-left: 100px;
+  align-items: center;
+  text-align: center;
+}
+
+
+.logo-2 {
+   height: 550px;
+   width: 600px;
+   margin-top: 30px;
+   margin-left: 100px;
+}
+.row-2 {
+    display: flex;
+    padding: 1rem;
+  }
+   
+  .column-1 {
+    width: cals(150%/3);
+    padding-left: 3rem;
+  }
+  span {
+    vertical-align:middle;
+}
+ 
+.abc > .button {
+    background: #da021e;
+    border: 1px solid #da021e;
+    width:30%;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    text-align: center;
+    margin-left: 40px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.abc > .btn {
+    background: rgb(0, 128, 0);
+    border: 1px solid rgb(0, 128, 0);
+    width:30%;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    text-align: center;
+    margin-left: -4rem;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.abc-1 > .button {
+  background: #da021e;
+  border: 1px solid #da021e;
+  width:30%;
+  color: #fff;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  text-align: center;
+  margin-left: 40px;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+.abc-1 > .btn {
+  background: rgb(0, 128, 0);
+  border: 1px solid rgb(0, 128, 0);
+  width:30%;
+  color: #fff;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  text-align: center;
+  margin-left: -4rem;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+table {
+    margin-left: -13px;
+    width: 900px;
+    height: 100px;
+    border-collapse: collapse;
+  }
+  
+  th {
+    background: #da021e;
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border: 2px solid black;
+  }
+  
+  td {
+    text-align: center;
+    border: 2px solid black;
+  }
+
